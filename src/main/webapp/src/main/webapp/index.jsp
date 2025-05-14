@@ -106,7 +106,7 @@
                 <img src="images/may-chay-bo.jpg" alt="Máy chạy bộ">
                 <p class="title">Máy chạy bộ</p>
                 <p class="price"><span>5500000</span></p>
-                <p class="rating">⭐⭐⭐⭐ 150 đã bán</p>
+                <p class="rating">⭐⭐⭐⭐⭐ 150 đã bán</p>
                 <p class="origin">Hàn Quốc</p>
                 <button class="add-to-cart" data-title="Máy chạy bộ" data-price="5500000">Thêm vào giỏ</button>
             </div>
